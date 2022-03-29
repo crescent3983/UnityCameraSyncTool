@@ -6,6 +6,8 @@ Synchronization of Unity SceneView, GameView cameras, inspired by [Unity-Scene-C
 
 ## Usage
 
++ Use whole project or copy `Assets/CameraSyncTool` to your project
+
 + Open tool from menu `Window/CameraSyncTool`
 
     ![CameraSyncTool](./readme_assets/camera_sync_tool.png)
@@ -16,9 +18,9 @@ Synchronization of Unity SceneView, GameView cameras, inspired by [Unity-Scene-C
 
 ## Compatibility
 
-Only tested with below versions.
+Only tested with below versions but may be compatible with other versions.
 
 | Version
 |------
-| Unity 2018.4.36
-| Unity 2020.3.30
+| Unity 2018.4.x
+| Unity 2020.3.x
